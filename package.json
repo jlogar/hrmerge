@@ -1,0 +1,10 @@
+{
+  "name": "hrmerge",
+  "version": "0.0.1",
+  "dependencies": {
+    "xml2object": "0.1.0",
+    "commander": "",
+    "sprintf":"",
+    "dateformat":""
+  }
+}
